@@ -1,0 +1,9 @@
+HP = 3;
+moveSpeed = 3;
+directionMod = 1;
+alive = true;
+horizontalSpeed = 0;
+verticalSpeed = 0; 
+grav = 4;
+hit = false;
+hitstun = 0;

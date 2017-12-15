@@ -1,0 +1,26 @@
+image_speed = 0;
+canDo = true;
+horizontalSpeed = 0;
+verticalSpeed = 0; 
+grav = 5;
+jumpSpeed = -50
+walkSpeed = 10;
+shoryuAngle = 5; 
+airSpeed = 3;
+directionMod = -1;
+grounded = false;
+fireballing = false; 
+kicking = false;
+attacking = false;
+sightLength = 20;
+dead = false;
+deadForReal = false;
+enemyMouse = undefined;
+facingDir = -1; 
+HP = 3;
+MaxHP = 3;
+deadTimer = 3;
+deadTimerMax = 3
+myHitstun = 0;
+stunned = false;
+gamepad_set_axis_deadzone(0, 0.2);
